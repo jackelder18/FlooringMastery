@@ -1,0 +1,16 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+372,Bayer-Farrell,NE,2.50,Cork,100.00,3.25,4.75,325.00,475.00,20.00,820.00
+373,Windler-Hayes,SD,2.50,Subway Tile,725.00,2.75,5.50,1993.75,3987.50,149.53,6130.78
+374,Kemmer and Sons,WI,6.75,Slate,475.00,3.50,3.75,1662.50,1781.25,232.45,3676.20
+375,Hagenes-Huels,NE,2.50,Parquet,850.00,2.25,4.75,1912.50,4037.50,148.75,6098.75
+376,Orn Schumm and Bernier,WI,6.75,Linoleum,975.00,1.75,4.00,1706.25,3900.00,378.42,5984.67
+377,Yost and Sons,ND,2.50,Slate,850.00,3.50,3.75,2975.00,3187.50,154.06,6316.56
+378,Prohaska and Sons,SD,2.50,Seamless Resin,850.00,2.75,2.75,2337.50,2337.50,116.88,4791.88
+379,Lubowitz and Sons,ND,2.50,Parquet,100.00,2.25,4.75,225.00,475.00,17.50,717.50
+380,Jacobi Windler and Champlin,IA,6.50,Cork,2475.00,3.25,4.75,8043.75,11756.25,1287.00,21087.00
+381,Hackett D'Amore and Borer,WI,6.75,Ceramic Tile,225.00,3.00,4.25,675.00,956.25,110.11,1741.36
+382,Keebler-Mann,MN,5.00,Bamboo,1225.00,2.50,2.25,3062.50,2756.25,290.94,6109.69
+383,Heaney and Sons,MN,5.00,Slate,600.00,3.50,3.75,2100.00,2250.00,217.50,4567.50
+384,Prosacco Kilback and Dickinson,MI,5.25,Frieze Carpet,1225.00,4.25,3.00,5206.25,3675.00,466.27,9347.52
+385,Kuphal LLC,MO,2.50,Cork,100.00,3.25,4.75,325.00,475.00,20.00,820.00
+386,Nader LLC,MO,2.50,Bamboo,225.00,2.50,2.25,562.50,506.25,26.72,1095.47

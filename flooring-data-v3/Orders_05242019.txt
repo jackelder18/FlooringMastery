@@ -1,0 +1,21 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+410,Becker-Schaden,ND,2.50,Marble,225.00,4.50,4.00,1012.50,900.00,47.81,1960.31
+411,Jaskolski Wyman and Hessel,IL,2.50,Seamless Resin,1100.00,2.75,2.75,3025.00,3025.00,151.25,6201.25
+412,Johnson Group,IA,6.50,Slate,600.00,3.50,3.75,2100.00,2250.00,282.75,4632.75
+413,O'Keefe-Fahey,MI,5.25,Seamless Resin,850.00,2.75,2.75,2337.50,2337.50,245.44,4920.44
+414,Jacobi Windler and Champlin,IA,6.50,Sisal Carpet,1225.00,2.75,3.75,3368.75,4593.75,517.56,8480.06
+415,Huel Hamill and Green,MO,2.50,Slate,2350.00,3.50,3.75,8225.00,8812.50,425.94,17463.44
+416,Waelchi Group,ND,2.50,Seamless Resin,975.00,2.75,2.75,2681.25,2681.25,134.06,5496.56
+417,Becker-Schaden,ND,2.50,Linoleum,975.00,1.75,4.00,1706.25,3900.00,140.16,5746.41
+418,Schmidt Williamson and Lubowitz,MO,2.50,Sisal Carpet,2600.00,2.75,3.75,7150.00,9750.00,422.50,17322.50
+419,Bergnaum LLC,MI,5.25,Bamboo,2475.00,2.50,2.25,6187.50,5568.75,617.20,12373.45
+420,Barrows Langosh and Fisher,WI,6.75,Slate,1225.00,3.50,3.75,4287.50,4593.75,599.48,9480.73
+421,Pacocha Schmidt and Bogan,IA,6.50,Parquet,850.00,2.25,4.75,1912.50,4037.50,386.75,6336.75
+422,Toy Inc,MN,5.00,Subway Tile,2850.00,2.75,5.50,7837.50,15675.00,1175.63,24688.13
+423,Mills Klocko and Botsford,NE,2.50,Concrete,2850.00,2.00,5.50,5700.00,15675.00,534.38,21909.38
+424,Kirlin-Block,MI,5.25,Cork,350.00,3.25,4.75,1137.50,1662.50,147.00,2947.00
+425,Cummings LLC,SD,2.50,Marble,1475.00,4.50,4.00,6637.50,5900.00,313.44,12850.94
+426,Johnson and Sons,SD,2.50,Shag Carpet,1600.00,2.00,4.25,3200.00,6800.00,250.00,10250.00
+427,Walter-Bogisich,MO,2.50,Sisal Carpet,2725.00,2.75,3.75,7493.75,10218.75,442.81,18155.31
+428,Leannon-Casper,MI,5.25,Frieze Carpet,2350.00,4.25,3.00,9987.50,7050.00,894.47,17931.97
+429,Howell-Ziemann,NE,2.50,Concrete,100.00,2.00,5.50,200.00,550.00,18.75,768.75

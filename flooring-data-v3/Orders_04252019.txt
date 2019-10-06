@@ -1,0 +1,6 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+197,Cormier-Sporer,IA,6.50,Seamless Resin,600.00,2.75,2.75,1650.00,1650.00,214.50,3514.50
+198,Jakubowski and Sons,MO,2.50,Ceramic Tile,2600.00,3.00,4.25,7800.00,11050.00,471.25,19321.25
+199,Purdy Pfannerstill and Hodkiewicz,SD,2.50,Concrete,2850.00,2.00,5.50,5700.00,15675.00,534.38,21909.38
+200,Ward-Cronin,MN,5.00,Bamboo,3100.00,2.50,2.25,7750.00,6975.00,736.25,15461.25
+201,Doyle and Sons,MO,2.50,Plank,2725.00,2.50,4.25,6812.50,11581.25,459.84,18853.59

@@ -1,0 +1,13 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+132,Cormier Group,MO,2.50,Marble,2475.00,4.50,4.00,11137.50,9900.00,525.94,21563.44
+133,Lubowitz Inc,NE,2.50,Shag Carpet,2475.00,2.00,4.25,4950.00,10518.75,386.72,15855.47
+134,Wolf Crist and Rau,MI,5.25,Bamboo,725.00,2.50,2.25,1812.50,1631.25,180.80,3624.55
+135,Wilderman Shanahan and Beahan,NE,2.50,Glass Tile,2100.00,4.50,3.00,9450.00,6300.00,393.75,16143.75
+136,Gleichner Inc,NE,2.50,Subway Tile,1350.00,2.75,5.50,3712.50,7425.00,278.44,11415.94
+137,Johnson Herman and Lindgren,MO,2.50,Plank,475.00,2.50,4.25,1187.50,2018.75,80.16,3286.41
+138,Barrows-Cruickshank,IL,2.50,Concrete,725.00,2.00,5.50,1450.00,3987.50,135.94,5573.44
+139,Pacocha Schmidt and Bogan,IA,6.50,Glass Tile,975.00,4.50,3.00,4387.50,2925.00,475.31,7787.81
+140,Jacobs-Mante,NE,2.50,Slate,100.00,3.50,3.75,350.00,375.00,18.13,743.13
+141,Lubowitz-Considine,IL,2.50,Glass Tile,850.00,4.50,3.00,3825.00,2550.00,159.38,6534.38
+142,Conn-Satterfield,ND,2.50,Subway Tile,1225.00,2.75,5.50,3368.75,6737.50,252.66,10358.91
+143,Jakubowski Prohaska and Pagac,IA,6.50,Concrete,2850.00,2.00,5.50,5700.00,15675.00,1389.38,22764.38

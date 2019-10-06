@@ -1,0 +1,19 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+233,Leffler LLC,SD,2.50,Linoleum,850.00,1.75,4.00,1487.50,3400.00,122.19,5009.69
+234,Schmidt-Reilly,IA,6.50,Slate,3100.00,3.50,3.75,10850.00,11625.00,1460.88,23935.88
+235,Von Swift and Wolff,ND,2.50,Subway Tile,1350.00,2.75,5.50,3712.50,7425.00,278.44,11415.94
+236,Romaguera LLC,SD,2.50,Ceramic Tile,475.00,3.00,4.25,1425.00,2018.75,86.09,3529.84
+237,Kuvalis-Borer,MN,5.00,Cork,1850.00,3.25,4.75,6012.50,8787.50,740.00,15540.00
+238,Von Boyle and Price,MI,5.25,Seamless Resin,3100.00,2.75,2.75,8525.00,8525.00,895.13,17945.13
+239,Walter-Wilkinson,WI,6.75,Shag Carpet,725.00,2.00,4.25,1450.00,3081.25,305.86,4837.11
+240,Harris Hudson and Willms,SD,2.50,Parquet,1100.00,2.25,4.75,2475.00,5225.00,192.50,7892.50
+241,Windler Murphy and Mraz,NE,2.50,Ceramic Tile,1975.00,3.00,4.25,5925.00,8393.75,357.97,14676.72
+242,Adams Osinski and Mann,IA,6.50,Seamless Resin,475.00,2.75,2.75,1306.25,1306.25,169.81,2782.31
+243,Cruickshank Reynolds and Cormier,MI,5.25,Glass Tile,1475.00,4.50,3.00,6637.50,4425.00,580.78,11643.28
+244,Bartoletti and Sons,IL,2.50,Seamless Resin,1725.00,2.75,2.75,4743.75,4743.75,237.19,9724.69
+245,Wiegand-Walter,SD,2.50,Parquet,1225.00,2.25,4.75,2756.25,5818.75,214.38,8789.38
+246,Padberg-Terry,MO,2.50,Bamboo,1100.00,2.50,2.25,2750.00,2475.00,130.63,5355.63
+247,Ward LLC,NE,2.50,Seamless Resin,600.00,2.75,2.75,1650.00,1650.00,82.50,3382.50
+248,O'Keefe-Fahey,MI,5.25,Frieze Carpet,350.00,4.25,3.00,1487.50,1050.00,133.22,2670.72
+249,Jenkins and Sons,NE,2.50,Shag Carpet,100.00,2.00,4.25,200.00,425.00,15.63,640.63
+250,Douglas Daniel and Lakin,IA,6.50,Subway Tile,1475.00,2.75,5.50,4056.25,8112.50,790.97,12959.72

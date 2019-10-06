@@ -1,0 +1,9 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+354,Kunde Group,NE,2.50,Cork,475.00,3.25,4.75,1543.75,2256.25,95.00,3895.00
+355,Jakubowski Prohaska and Pagac,IA,6.50,Cork,2600.00,3.25,4.75,8450.00,12350.00,1352.00,22152.00
+356,Heller and Sons,IA,6.50,Plank,975.00,2.50,4.25,2437.50,4143.75,427.78,7009.03
+357,Jaskolski and Sons,NE,2.50,Linoleum,1975.00,1.75,4.00,3456.25,7900.00,283.91,11640.16
+358,Spencer Spencer and Leuschke,MI,5.25,Plank,975.00,2.50,4.25,2437.50,4143.75,345.52,6926.77
+359,Rowe McLaughlin and Cronin,NE,2.50,Ceramic Tile,2350.00,3.00,4.25,7050.00,9987.50,425.94,17463.44
+360,Parisian Group,ND,2.50,Marble,2850.00,4.50,4.00,12825.00,11400.00,605.63,24830.63
+361,Hilpert White and Satterfield,MI,5.25,Cork,225.00,3.25,4.75,731.25,1068.75,94.50,1894.50

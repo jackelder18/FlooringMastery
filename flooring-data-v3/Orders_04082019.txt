@@ -1,0 +1,14 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+43,Morar Ullrich and Walter,IL,2.50,Parquet,2100.00,2.25,4.75,4725.00,9975.00,367.50,15067.50
+44,Hegmann Kemmer and Schumm,MI,5.25,Frieze Carpet,1850.00,4.25,3.00,7862.50,5550.00,704.16,14116.66
+45,Wilkinson-Bartell,WI,6.75,Glass Tile,100.00,4.50,3.00,450.00,300.00,50.63,800.63
+46,Douglas-Murray,IA,6.50,Seamless Resin,2100.00,2.75,2.75,5775.00,5775.00,750.75,12300.75
+47,O'Reilly-McDermott,SD,2.50,Marble,1100.00,4.50,4.00,4950.00,4400.00,233.75,9583.75
+48,Mosciski Ullrich and Runte,MN,5.00,Shag Carpet,2975.00,2.00,4.25,5950.00,12643.75,929.69,19523.44
+49,Feil-Kling,MN,5.00,Shag Carpet,2100.00,2.00,4.25,4200.00,8925.00,656.25,13781.25
+50,Dicki-Wolff,MN,5.00,Cork,2975.00,3.25,4.75,9668.75,14131.25,1190.00,24990.00
+51,Lowe Group,IL,2.50,Bamboo,850.00,2.50,2.25,2125.00,1912.50,100.94,4138.44
+52,Kreiger Miller and Terry,MI,5.25,Parquet,1475.00,2.25,4.75,3318.75,7006.25,542.06,10867.06
+53,Harris-Hilpert,IL,2.50,Frieze Carpet,2100.00,4.25,3.00,8925.00,6300.00,380.63,15605.63
+54,Breitenberg Hegmann and Purdy,IA,6.50,Cork,3100.00,3.25,4.75,10075.00,14725.00,1612.00,26412.00
+55,Howell-Nicolas,MO,2.50,Marble,350.00,4.50,4.00,1575.00,1400.00,74.38,3049.38

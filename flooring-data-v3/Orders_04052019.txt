@@ -1,0 +1,22 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+22,Champlin Nienow and Murazik,MI,5.25,Slate,1475.00,3.50,3.75,5162.50,5531.25,561.42,11255.17
+23,Bruen-Daugherty,NE,2.50,Ceramic Tile,2475.00,3.00,4.25,7425.00,10518.75,448.59,18392.34
+24,Bruen-Ankunding,ND,2.50,Glass Tile,3100.00,4.50,3.00,13950.00,9300.00,581.25,23831.25
+25,Bogan Swift and McKenzie,IA,6.50,Marble,975.00,4.50,4.00,4387.50,3900.00,538.69,8826.19
+26,Rutherford Inc,ND,2.50,Cork,2725.00,3.25,4.75,8856.25,12943.75,545.00,22345.00
+27,Hansen-Stehr,WI,6.75,Ceramic Tile,2225.00,3.00,4.25,6675.00,9456.25,1088.86,17220.11
+28,Johnston and Sons,IL,2.50,Glass Tile,1100.00,4.50,3.00,4950.00,3300.00,206.25,8456.25
+29,Powlowski-Shields,WI,6.75,Slate,225.00,3.50,3.75,787.50,843.75,110.11,1741.36
+30,Howell-Ankunding,ND,2.50,Linoleum,1475.00,1.75,4.00,2581.25,5900.00,212.03,8693.28
+31,Metz Group,WI,6.75,Marble,100.00,4.50,4.00,450.00,400.00,57.38,907.38
+32,Beer Stoltenberg and Leuschke,ND,2.50,Parquet,600.00,2.25,4.75,1350.00,2850.00,105.00,4305.00
+33,Hilpert White and Satterfield,MI,5.25,Plank,725.00,2.50,4.25,1812.50,3081.25,256.92,5150.67
+34,Pfannerstill Gislason and Hackett,MI,5.25,Seamless Resin,725.00,2.75,2.75,1993.75,1993.75,209.34,4196.84
+35,Runte Smitham and Little,SD,2.50,Shag Carpet,2350.00,2.00,4.25,4700.00,9987.50,367.19,15054.69
+36,Muller Group,MI,5.25,Cork,2350.00,3.25,4.75,7637.50,11162.50,987.00,19787.00
+37,Rogahn-Feil,MN,5.00,Shag Carpet,350.00,2.00,4.25,700.00,1487.50,109.38,2296.88
+38,Cormier-Sporer,IA,6.50,Ceramic Tile,1225.00,3.00,4.25,3675.00,5206.25,577.28,9458.53
+39,Weissnat-Emmerich,IA,6.50,Bamboo,600.00,2.50,2.25,1500.00,1350.00,185.25,3035.25
+40,Shanahan Bins and Howe,NE,2.50,Concrete,2975.00,2.00,5.50,5950.00,16362.50,557.81,22870.31
+41,Howell-Ziemann,NE,2.50,Ceramic Tile,975.00,3.00,4.25,2925.00,4143.75,176.72,7245.47
+42,Gaylord-Bosco,NE,2.50,Subway Tile,350.00,2.75,5.50,962.50,1925.00,72.19,2959.69

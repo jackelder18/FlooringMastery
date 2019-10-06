@@ -1,0 +1,19 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+202,Casper-Rohan,IA,6.50,Slate,1600.00,3.50,3.75,5600.00,6000.00,754.00,12354.00
+203,Johnston LLC,MN,5.00,Subway Tile,1725.00,2.75,5.50,4743.75,9487.50,711.56,14942.81
+204,Funk Hoeger and Abbott,IL,2.50,Parquet,2850.00,2.25,4.75,6412.50,13537.50,498.75,20448.75
+205,Schmidt Flatley and Emmerich,MI,5.25,Seamless Resin,2225.00,2.75,2.75,6118.75,6118.75,642.47,12879.97
+206,Windler Inc,MO,2.50,Ceramic Tile,600.00,3.00,4.25,1800.00,2550.00,108.75,4458.75
+207,Batz LLC,MO,2.50,Bamboo,725.00,2.50,2.25,1812.50,1631.25,86.09,3529.84
+208,Reichel Lakin and Dietrich,ND,2.50,Sisal Carpet,2225.00,2.75,3.75,6118.75,8343.75,361.56,14824.06
+209,Monahan and Sons,SD,2.50,Sisal Carpet,1850.00,2.75,3.75,5087.50,6937.50,300.63,12325.63
+210,Kulas and Sons,IA,6.50,Linoleum,1725.00,1.75,4.00,3018.75,6900.00,644.72,10563.47
+211,Blick Inc,IA,6.50,Sisal Carpet,1975.00,2.75,3.75,5431.25,7406.25,834.44,13671.94
+212,Fadel Bogisich and Willms,MO,2.50,Marble,2975.00,4.50,4.00,13387.50,11900.00,632.19,25919.69
+213,Wintheiser-Olson,ND,2.50,Seamless Resin,1350.00,2.75,2.75,3712.50,3712.50,185.63,7610.63
+214,Lueilwitz Inc,IL,2.50,Frieze Carpet,2725.00,4.25,3.00,11581.25,8175.00,493.91,20250.16
+215,Ratke and Sons,IA,6.50,Slate,1975.00,3.50,3.75,6912.50,7406.25,930.72,15249.47
+216,Ernser-Windler,MO,2.50,Sisal Carpet,600.00,2.75,3.75,1650.00,2250.00,97.50,3997.50
+217,Wiza Stokes and Grimes,MO,2.50,Sisal Carpet,2475.00,2.75,3.75,6806.25,9281.25,402.19,16489.69
+218,Botsford and Sons,NE,2.50,Bamboo,2600.00,2.50,2.25,6500.00,5850.00,308.75,12658.75
+219,Schmidt Williamson and Lubowitz,MO,2.50,Cork,350.00,3.25,4.75,1137.50,1662.50,70.00,2870.00

@@ -1,0 +1,6 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+321,Kuphal LLC,MO,2.50,Linoleum,2600.00,1.75,4.00,4550.00,10400.00,373.75,15323.75
+322,Hilpert Smith and Smith,NE,2.50,Linoleum,2975.00,1.75,4.00,5206.25,11900.00,427.66,17533.91
+323,Beatty-Grant,MI,5.25,Bamboo,2350.00,2.50,2.25,5875.00,5287.50,586.03,11748.53
+324,Daugherty Inc,MO,2.50,Parquet,225.00,2.25,4.75,506.25,1068.75,39.38,1614.38
+325,Windler Hand and Rosenbaum,WI,6.75,Bamboo,725.00,2.50,2.25,1812.50,1631.25,232.45,3676.20

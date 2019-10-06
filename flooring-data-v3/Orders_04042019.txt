@@ -1,0 +1,3 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+20,Swift Inc,IA,6.50,Frieze Carpet,225.00,4.25,3.00,956.25,675.00,106.03,1737.28
+21,Larson and Sons,MO,2.50,Ceramic Tile,1975.00,3.00,4.25,5925.00,8393.75,357.97,14676.72

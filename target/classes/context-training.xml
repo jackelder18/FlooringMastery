@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd">    
+
+    <!-- BEANS START HERE -->
+    <bean id="io" class="com.sg.flooringmastery.ui.ConsoleIO"/>
+    
+    <!-- Note ViewTraining for Training Mode. Select Training vs. Prod in App.java. -->
+    <bean id="view" class="com.sg.flooringmastery.ui.ViewTraining">
+        <constructor-arg ref = "io"/>
+    </bean>
+    
+    <!-- Note TrainingDaoManager for Training Mode. Select Training vs. Prod in App.java. -->
+    <bean id="orderDaoManager" class="com.sg.flooringmastery.dao.OrderTrainingDaoManager"/> 
+    
+    <bean id="productDao" class="com.sg.flooringmastery.dao.ProductFileDao">
+        <constructor-arg value = "flooring-data-v3/Products.txt"/>
+    </bean>
+    
+    <bean id="taxDao" class="com.sg.flooringmastery.dao.TaxFileDao">
+        <constructor-arg value = "flooring-data-v3/Taxes.txt"/>
+    </bean>
+    
+    <bean id="orderLibrary" class="com.sg.flooringmastery.service.OrderLibrary">
+        <constructor-arg ref="orderDaoManager"/>
+        <constructor-arg ref="productDao"/>
+        <constructor-arg ref="taxDao"/>
+    </bean>
+    
+    
+    <bean id="controller" class="com.sg.flooringmastery.controller.Controller">
+        <constructor-arg ref="view"/>
+        <constructor-arg ref="orderLibrary"/>
+    </bean>
+
+
+</beans>

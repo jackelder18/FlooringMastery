@@ -1,0 +1,10 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+271,Crooks-O'Kon,MI,5.25,Shag Carpet,100.00,2.00,4.25,200.00,425.00,32.81,657.81
+272,Huel Hegmann and McClure,IA,6.50,Sisal Carpet,2600.00,2.75,3.75,7150.00,9750.00,1098.50,17998.50
+273,Thiel LLC,IA,6.50,Cork,1975.00,3.25,4.75,6418.75,9381.25,1027.00,16827.00
+274,Sipes Schumm and O'Keefe,MI,5.25,Frieze Carpet,2850.00,4.25,3.00,12112.50,8550.00,1084.78,21747.28
+275,Jenkins and Sons,NE,2.50,Cork,2475.00,3.25,4.75,8043.75,11756.25,495.00,20295.00
+276,Bergnaum Boyer and Robel,MN,5.00,Plank,850.00,2.50,4.25,2125.00,3612.50,286.88,6024.38
+277,Dickens Jerde and Jast,NE,2.50,Plank,1725.00,2.50,4.25,4312.50,7331.25,291.09,11934.84
+278,Balistreri Braun and Rutherford,IL,2.50,Sisal Carpet,2100.00,2.75,3.75,5775.00,7875.00,341.25,13991.25
+279,Mante-Cassin,SD,2.50,Bamboo,725.00,2.50,2.25,1812.50,1631.25,86.09,3529.84

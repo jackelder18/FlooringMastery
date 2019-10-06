@@ -1,0 +1,12 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+144,Kessler Sipes and Lind,SD,2.50,Parquet,1975.00,2.25,4.75,4443.75,9381.25,345.63,14170.63
+145,Schumm-Beier,MN,5.00,Cork,1100.00,3.25,4.75,3575.00,5225.00,440.00,9240.00
+146,Johnston LLC,MN,5.00,Concrete,2225.00,2.00,5.50,4450.00,12237.50,834.38,17521.88
+147,Davis Kiehn and Stark,NE,2.50,Plank,2475.00,2.50,4.25,6187.50,10518.75,417.66,17123.91
+148,Senger-Senger,NE,2.50,Subway Tile,1475.00,2.75,5.50,4056.25,8112.50,304.22,12472.97
+149,Prosacco Kilback and Dickinson,MI,5.25,Parquet,3100.00,2.25,4.75,6975.00,14725.00,1139.25,22839.25
+150,Murphy Inc,WI,6.75,Subway Tile,350.00,2.75,5.50,962.50,1925.00,194.91,3082.41
+151,Rowe McLaughlin and Cronin,NE,2.50,Subway Tile,2475.00,2.75,5.50,6806.25,13612.50,510.47,20929.22
+152,MacGyver Quitzon and Zieme,MO,2.50,Sisal Carpet,2850.00,2.75,3.75,7837.50,10687.50,463.13,18988.13
+153,Dooley Howell and Hudson,IL,2.50,Plank,2350.00,2.50,4.25,5875.00,9987.50,396.56,16259.06
+154,West Inc,NE,2.50,Sisal Carpet,1475.00,2.75,3.75,4056.25,5531.25,239.69,9827.19

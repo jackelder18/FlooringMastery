@@ -1,0 +1,6 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+155,Breitenberg Hackett and Padberg,WI,6.75,Sisal Carpet,600.00,2.75,3.75,1650.00,2250.00,263.25,4163.25
+156,Hayes Shanahan and Homenick,WI,6.75,Slate,2350.00,3.50,3.75,8225.00,8812.50,1150.03,18187.53
+157,Powlowski-Batz,SD,2.50,Frieze Carpet,2975.00,4.25,3.00,12643.75,8925.00,539.22,22107.97
+158,Test Business, Inc.,MI,5.00,Slate,10.00,0.00,0.00,0.00,0.00,0.00,0.00
+158,Test Business, Inc.,MI,5.00,Slate,10.00,0.00,0.00,0.00,0.00,0.00,0.00

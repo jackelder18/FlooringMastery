@@ -1,0 +1,11 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+362,Beatty Inc,NE,2.50,Ceramic Tile,1100.00,3.00,4.25,3300.00,4675.00,199.38,8174.38
+363,Hilpert White and Satterfield,MI,5.25,Ceramic Tile,2850.00,3.00,4.25,8550.00,12112.50,1084.78,21747.28
+364,Brekke and Sons,IL,2.50,Linoleum,850.00,1.75,4.00,1487.50,3400.00,122.19,5009.69
+365,Anderson-Collins,SD,2.50,Subway Tile,850.00,2.75,5.50,2337.50,4675.00,175.31,7187.81
+366,Gulgowski-Pouros,IA,6.50,Sisal Carpet,2975.00,2.75,3.75,8181.25,11156.25,1256.94,20594.44
+367,Considine Boehm and Wolf,MO,2.50,Slate,1350.00,3.50,3.75,4725.00,5062.50,244.69,10032.19
+368,Leffler LLC,SD,2.50,Subway Tile,1725.00,2.75,5.50,4743.75,9487.50,355.78,14587.03
+369,Ernser Group,SD,2.50,Concrete,1100.00,2.00,5.50,2200.00,6050.00,206.25,8456.25
+370,Collier Stokes and Herman,ND,2.50,Ceramic Tile,1100.00,3.00,4.25,3300.00,4675.00,199.38,8174.38
+371,Barrows Langosh and Fisher,WI,6.75,Frieze Carpet,975.00,4.25,3.00,4143.75,2925.00,477.14,7545.89

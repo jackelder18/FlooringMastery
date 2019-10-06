@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd">    
+
+    <!-- BEANS START HERE -->
+    
+    <bean id="orderDaoManager" class="com.sg.flooringmastery.dao.OrderTrainingDaoManager"/> 
+    
+    <bean id="productDao" class="com.sg.flooringmastery.dao.ProductFileDao">
+        <constructor-arg value = "test-data/Test-Products.txt"/>
+    </bean>
+    
+    <bean id="taxDao" class="com.sg.flooringmastery.dao.TaxFileDao">
+        <constructor-arg value = "test-data/Test-Taxes.txt"/>
+    </bean>
+    
+    <bean id="orderLibrary" class="com.sg.flooringmastery.service.OrderLibrary">
+        <constructor-arg ref="orderDaoManager"/>
+        <constructor-arg ref="productDao"/>
+        <constructor-arg ref="taxDao"/>
+    </bean>
+
+</beans>
